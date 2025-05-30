@@ -6,17 +6,17 @@
 The application is currently running at `http://localhost:5173/`. Test the following features:
 
 #### Core Functionality
-- ✅ **Add Tasks**: Enter text in the input field and click "Add Task"
-- ✅ **Task Validation**: Try adding empty tasks, short tasks (<3 chars), or long tasks (>100 chars)
-- ✅ **Mark Complete**: Click the checkbox next to any task
-- ✅ **Remove Tasks**: Click the "×" button next to any task
-- ✅ **Real-time Stats**: Watch the Total/Active/Completed counters update
+-  **Add Tasks**: Enter text in the input field and click "Add Task"
+-  **Task Validation**: Try adding empty tasks, short tasks (<3 chars), or long tasks (>100 chars)
+-  **Mark Complete**: Click the checkbox next to any task
+-  **Remove Tasks**: Click the "×" button next to any task
+-  **Real-time Stats**: Watch the Total/Active/Completed counters update
 
 #### Advanced Features
-- ✅ **Filtering**: Use the filter buttons (All, Active, Completed) or dropdown
-- ✅ **Sorting**: Change sort options (Date, Alphabetical, Status)
-- ✅ **Persistence**: Refresh the page and verify tasks are saved
-- ✅ **Responsive Design**: Resize browser window or test on mobile
+-  **Filtering**: Use the filter buttons (All, Active, Completed) or dropdown
+-  **Sorting**: Change sort options (Date, Alphabetical, Status)
+-  **Persistence**: Refresh the page and verify tasks are saved
+-  **Responsive Design**: Resize browser window or test on mobile
 
 ### 2. Automated Testing
 
@@ -65,20 +65,20 @@ npm run preview
 ### 4. Browser Compatibility Testing
 
 Test the application in:
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
+-  Chrome (latest)
+-  Firefox (latest)
+-  Safari (latest)
+-  Edge (latest)
+-  Mobile browsers (iOS Safari, Chrome Mobile)
 
 ### 5. Accessibility Testing
 
 #### Manual Checks
-- ✅ Keyboard navigation (Tab, Enter, Space)
-- ✅ Screen reader compatibility
-- ✅ Color contrast ratios
-- ✅ Focus indicators
-- ✅ ARIA labels and roles
+-  Keyboard navigation (Tab, Enter, Space)
+-  Screen reader compatibility
+-  Color contrast ratios
+-  Focus indicators
+-  ARIA labels and roles
 
 #### Automated Accessibility Testing
 ```bash
