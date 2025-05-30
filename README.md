@@ -5,18 +5,18 @@ A complete, feature-rich To-Do List application built with React and Vite. This 
 ## Features
 
 ### Core Functionality
-- ✅ **Add Tasks**: Create new tasks with input validation
-- ✅ **Remove Tasks**: Delete tasks with smooth animations
-- ✅ **Mark Complete**: Toggle task completion status
-- ✅ **Dynamic Display**: Real-time updates and statistics
+-  **Add Tasks**: Create new tasks with input validation
+-  **Remove Tasks**: Delete tasks with smooth animations
+-  **Mark Complete**: Toggle task completion status
+-  **Dynamic Display**: Real-time updates and statistics
 
 ### Advanced Features
-- 🔍 **Filtering**: View all, active, or completed tasks
-- 📊 **Sorting**: Sort by date created, alphabetical order, or completion status
-- 💾 **localStorage Integration**: Automatic data persistence across browser sessions
-- ✨ **Input Validation**: Comprehensive task validation with user feedback
-- 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
-- 🎨 **Modern UI**: Clean, intuitive interface with smooth animations
+-  **Filtering**: View all, active, or completed tasks
+-  **Sorting**: Sort by date created, alphabetical order, or completion status
+-  **localStorage Integration**: Automatic data persistence across browser sessions
+-  **Input Validation**: Comprehensive task validation with user feedback
+-  **Responsive Design**: Works seamlessly on desktop and mobile devices
+-  **Modern UI**: Clean, intuitive interface with smooth animations
 
 ### Input Validation Rules
 - Tasks cannot be empty
@@ -95,10 +95,10 @@ All component styles have been consolidated into a single `App.css` file for eas
 - **Responsive Design**: Mobile-first responsive breakpoints
 
 This approach provides:
-- ✅ Centralized styling for easier maintenance
-- ✅ Better performance (single CSS file)
-- ✅ Consistent design system
-- ✅ Easier debugging and modifications
+-  Centralized styling for easier maintenance
+-  Better performance (single CSS file)
+-  Consistent design system
+-  Easier debugging and modifications
 
 ## Component Architecture
 
@@ -143,13 +143,13 @@ npm run test:ui
 ### Test Coverage
 
 The application includes comprehensive tests covering:
-- ✅ Component rendering
-- ✅ Task addition and validation
-- ✅ Task completion toggling
-- ✅ Task removal
-- ✅ Filtering functionality
-- ✅ localStorage integration
-- ✅ User interactions
+-  Component rendering
+-  Task addition and validation
+-  Task completion toggling
+-  Task removal
+-  Filtering functionality
+-  localStorage integration
+-  User interactions
 
 ### Writing Additional Tests
 
@@ -175,10 +175,10 @@ describe('TodoApp', () => {
 ## Data Persistence
 
 The application uses **localStorage** to automatically save and restore your todos:
-- ✅ Data persists across browser sessions
-- ✅ Automatic save on every change
-- ✅ Error handling for storage issues
-- ✅ No server required
+-  Data persists across browser sessions
+-  Automatic save on every change
+-  Error handling for storage issues
+-  No server required
 
 ### Storage Format
 ```javascript
@@ -196,11 +196,11 @@ The application uses **localStorage** to automatically save and restore your tod
 
 ## Browser Compatibility
 
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile browsers
+-  Chrome (latest)
+-  Firefox (latest)
+-  Safari (latest)
+-  Edge (latest)
+-  Mobile browsers
 
 ## Git Workflow & Deployment
 
